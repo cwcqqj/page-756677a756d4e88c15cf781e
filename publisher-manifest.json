@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1acb6a2978848846f4b7c3b9",
+  "owner": "cwcqqj",
+  "repo": "page-756677a756d4e88c15cf781e",
+  "title": "TAG国际站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "756677a756d4e88c15cf781e",
+      "a": "TAG国际站",
+      "b": "2027官方最新地址导航",
+      "entity": "TAG国际站",
+      "brand": "TAG国际站",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d609b0383437444947746d92d5315e33dc638da5d061c165ca846d574759041a",
+      "content": {
+        "primary_entity": "TAG国际站",
+        "keyword1": "TAG国际站",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选用对应客户端，并依照其文档导入订阅。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "按设备数与流量确定套餐，完成客户端配置即可使用 TAG国际站 加速服务。",
+          "AI_CLOSING_TITLE": "选好档位再订阅",
+          "AI_DESCRIPTION": "，TAG国际站提供多档海外加速订阅，从基础版到团队版覆盖不同设备数量与流量需求。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并针对游戏场景优化；团队版每月 1000GB、支持 20 台设备，适合多人协作。按年付可节省费用，客户端订阅配置依各平台文档完成。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和线路类型出发，快速定位合适的订阅档位。",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 到 1000GB 三档可选，团队版适合多终端使用。",
+          "AI_FEATURE_TEXT_3": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "设备数量先统计",
+          "AI_FEATURE_TITLE_2": "流量额度按需选",
+          "AI_FEATURE_TITLE_3": "订阅周期更划算",
+          "AI_GUIDE_INTRO": "从确认需求到完成客户端配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "TAG国际站面向不同设备规模提供海外加速订阅，流量、设备数与节点权限随套餐递进。选择时先统计常用设备数量与月度流量消耗，再参考旗舰版或团队版的功能差异，按年付费方案在价格上更为划算。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版支持 300GB 与游戏优化",
+          "AI_HIGHLIGHT_3": "按年付款节省月度支出",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数与月流量，在基础版、旗舰版或团队版中选定订阅。",
+          "AI_STEP_TEXT_2": "确认设备的系统版本与客户端支持情况，再决定安装方式。",
+          "AI_STEP_TEXT_3": "获取订阅信息后，按对应客户端文档完成导入与连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "TAG国际站订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可以按常用手机、电脑和平板的实际数量选择，设备较多时选团队版更从容。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。轻度浏览与社交选基础版即可，经常看视频或多人共用建议旗舰版及以上。",
+          "AI_FAQ_ANSWER_3": "按年付更划算，基础版仅需150元每年，旗舰版350元每年，团队版850元每年。长期使用的话，年付方案比月付节省不少。",
+          "AI_FAQ_ANSWER_4": "在客户端订阅管理里新建订阅并粘贴订阅地址，保存后选择节点连接即可。不同客户端的菜单名称略有差别，按对应客户端文档操作就行。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点。如果对延迟敏感，可以优先考虑这两档套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以让几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "订阅地址怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版针对游戏有什么优化？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fpvrtwv.cn",
+    "host": "fpvrtwv.cn"
+  },
+  "file_hashes": {
+    "index.html": "57a7ea301af43b821021b9a7d5bc004aa0961838a33e022b892ba5b077e18738",
+    "sitemap.xml": "87fccd5f616db2225c1e88b0dcc03d12f7a900c261317f50dabd51742e3852f7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "07878e6b140570bc9ecaa3f262bc30185820fe41e1f7256e4d0c25b297b296f1",
+    "robots.txt": "0f6be30bdacd5e34db97406435d583b78ffa566b5fa6ba9a9da38bd574263336",
+    "42be601d4d8aaf9f9a266e29b669c040.txt": "edd4a2b45a4d925f300ad7f1f51cfe966b9eb2836d942e67b821ec6506dcb099"
+  },
+  "revision": "93b0e862f294350890bb708dd5826c47f355c799eef38b7e1b6cc6b40adc2c98"
+}
